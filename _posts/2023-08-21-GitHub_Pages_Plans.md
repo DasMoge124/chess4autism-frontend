@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: More Detail Plan
 description: Example Plan!!! Analyze hacks and plan.
-type: plans
+type: lesson
 courses: { compsci: {week: 1} }
 ---
 
